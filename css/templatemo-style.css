@@ -603,7 +603,7 @@ a#logo {
   z-index: 99;
   bottom: 0;
   text-align: left;
-  padding: 20px;
+  padding: 18px;
   background-color: rgba(250,250,250,0.25);
   width: 100%;
   height: 60px;
@@ -635,7 +635,7 @@ a#logo {
   background-color: rgba(250,250,250,0.9)
 }
 .portfolio-item:hover .thumb-inner h4 {
-   margin-top: 5%;
+  margin-top: 3%;
   color: #1e1e1e;
   margin-bottom: 20px;
 }
