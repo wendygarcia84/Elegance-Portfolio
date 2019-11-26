@@ -5,12 +5,13 @@
 	}
 }
 @media only screen and (max-width: 1440px) {
+
 	.welcome-title {
 		font-size: 100px;
 		margin-bottom:20px;
 	}
 	.next-section {
-	/*	bottom: auto; */
+		bottom: auto;
 	}
 	.welcome-title:before {
 		margin: 20px auto 5px;
