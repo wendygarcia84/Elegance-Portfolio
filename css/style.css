@@ -1,5 +1,5 @@
 i {
-    font-size:14px;
+    font-size: 14px;
 }
 
 .item {
@@ -9,6 +9,7 @@ i {
 .fas {
     color: black;
 }
+
 .about-img {
     max-width: 100%;
     overflow: hidden;
@@ -63,4 +64,8 @@ i {
 
   .my-skills {
     margin-top: 25%;
+  }
+
+  .fa-linkedin, .fa-github-square {
+    font-size: 28px;
   }
