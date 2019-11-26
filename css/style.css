@@ -9,7 +9,6 @@ i {
 .fas {
     color: black;
 }
-
 .about-img {
     max-width: 100%;
     overflow: hidden;
@@ -35,7 +34,7 @@ i {
 
   .about-img-inner h2 {
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 0px;
   }
   .about-img-inner p {
@@ -60,4 +59,8 @@ i {
     margin-top: 3%;
     color: #1e1e1e;
     margin-bottom: 20px;
+  }
+
+  .my-skills {
+    margin-top: 25%;
   }
