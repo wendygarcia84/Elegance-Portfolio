@@ -78,12 +78,12 @@
         }
         if ($('.services-list').length) {
             $('.services-list').owlCarousel({
-                loop: true,
+                loop: false,
                 nav: false,
-                dots: true,
+                dots: false,
                 items: 3,
                 margin: 30,
-                autoplay: true,
+                autoplay: false,
                 smartSpeed: 700,
                 autoplayTimeout: 6000,
                 responsive: {
